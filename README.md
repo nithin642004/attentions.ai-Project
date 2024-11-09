@@ -1,1 +1,1 @@
-# attentions.ai-Project
+streamlit run app.py
